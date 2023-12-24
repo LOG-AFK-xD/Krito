@@ -42,7 +42,7 @@ btn = [
 ]
 
 HELP_TEXT = """
-Hey There! This Is Kirito Again
+Hey There! This Is Devil Robot Again
 ━━━━━━━━━━━━━━━━━━━━━━━━
 Tʀᴜsᴛ ɪɴ ᴍʏ ⚔️ AɪɴCʀᴀᴅ Sᴡᴏʀᴅ Sᴛʏʟᴇ ⚔️...
 ━━━━━━━━━━━━━━━━━━━━━━━━
@@ -51,7 +51,7 @@ System Commands Available:
 ❍ /help: Usᴇ Tʜɪs... Iꜰ Yᴏᴜ Nᴇᴇᴅ Mᴏʀᴇ Iɴꜰᴏ Aʙᴏᴜᴛ Mᴇ!
 ━━━━━━━━━━━━━━━━━━━━━━━━
 For Issues Report At @Programmer_Support
-Powered by @Besties_XD [🖥](https://telegra.ph/file/b7d0d2c10a56e3b739611.png)
+Powered by @LovePoisonxD [🖥](https://te.legra.ph/file/c430ffd0f5168dd726c29.jpg)
 ━━━━━━━━━━━━━━━━━━━━━━━━
 All commands can either be used with /.
 
