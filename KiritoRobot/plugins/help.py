@@ -50,7 +50,7 @@ System Commands Available:
 ❍ /start: Cʜᴇᴄᴋ Mᴇ... Iꜰ I Aᴍ Aʟɪᴠᴇ Oʀ Nᴏᴛ
 ❍ /help: Usᴇ Tʜɪs... Iꜰ Yᴏᴜ Nᴇᴇᴅ Mᴏʀᴇ Iɴꜰᴏ Aʙᴏᴜᴛ Mᴇ!
 ━━━━━━━━━━━━━━━━━━━━━━━━
-For Issues Report At @Programmer_Support
+For Issues Report At @THEBLAZENETWORK
 Powered by @LovePoisonxD [🖥](https://te.legra.ph/file/c430ffd0f5168dd726c29.jpg)
 ━━━━━━━━━━━━━━━━━━━━━━━━
 All commands can either be used with /.
