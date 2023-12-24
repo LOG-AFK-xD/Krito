@@ -32,7 +32,7 @@ from KiritoRobot import tbot
 from KiritoRobot.utils import swordinline
 
 PM_START_TEXT = """
-────「 [Kirito Robot 키리토](https://telegra.ph/file/36dd96df77bc2b7ef9b3d.png) 」────
+────「 [Devil x Robot 키리토](https://te.legra.ph/file/c430ffd0f5168dd726c29.jpg) 」────
 **Hola! {},
 I am an Anime themed advance group management bot with a lot of Cool Features.**
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -40,17 +40,17 @@ I am an Anime themed advance group management bot with a lot of Cool Features.**
 """
 
 
-@tbot.on(events.NewMessage(pattern="^/start(@KiritoXProBot)?$"))
+@tbot.on(events.NewMessage(pattern="^/start(@Devil_X_Robot)?$"))
 async def start(event):
 
     if event.is_private:
         await event.reply(
             PM_START_TEXT.format(event.sender.first_name),
             buttons = [
-    [Button.url("Add To Your Guild", "https://t.me/KiritoXProBot?startgroup=true")],
+    [Button.url("Add To Your Guild", "https://t.me/Devil_X_Robot?startgroup=true")],
     [
-        Button.inline("Terms And Conditions", data="tc"),
-        Button.url("Error Report", "https://t.me/ProgrammerSupport"),
+        Button.inline("Terms & Conditions", data="tc"),
+        Button.url("Error Report", "t.me/LovePoisonXD"),
     ],
     [Button.inline("System Call", data="help")],
 ],
@@ -72,8 +72,8 @@ tc = """
 ➛ 𝐃ᴏ 𝐍ᴏᴛ 𝐒ᴘᴀᴍ 𝐂ᴏᴍᴍᴀɴᴅ𝐬 , 𝐁ᴜᴛᴛᴏɴ𝐬 , 𝐎ʀ 𝐀ɴʏᴛʜɪɴɢ 𝐈ɴ 𝐁ᴏᴛ 𝐏ᴍ
 
 𝙉𝙊𝙏𝙀: 𝐓ᴇʀᴍ𝐬 𝐀ɴᴅ 𝐂ᴏɴᴅɪᴛɪᴏɴ𝐬 𝐌ɪɢʜᴛ 𝐂ʜᴀɴɢᴇ 𝐀ɴʏᴛɪᴍᴇ.
-**𝐒𝐞𝐫𝐯𝐞𝐫 𝐂𝐫𝐞𝐚𝐭𝐨𝐫:** [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](t.me/Its_IZ_Me_Prince_xd)
-**404 𝑹𝒆𝒑𝒐𝒓𝒕:** [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](t.me/ProgrammerSupport)
+**𝐒𝐞𝐫𝐯𝐞𝐫 𝐂𝐫𝐞𝐚𝐭𝐨𝐫:** [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](https://t.me/Official_ProXD)
+**404 𝑹𝒆𝒑𝒐𝒓𝒕:** [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](t.me/Theblazenetwork)
 """
 
            
@@ -85,10 +85,10 @@ async def t_c(e):
 @swordinline(pattern=r"back")
 async def _(event):
     btn = [
-    [Button.url("Add To Your Guild", "https://t.me/KiritoXProBot?startgroup=true")],
+    [Button.url("Add To Your Guild", "https://t.me/Devil_X_Robot?startgroup=true")],
     [
-        Button.inline("Terms And Conditions", data="tc"),
-        Button.url("Error Report", "https://t.me/ProgrammerSupport"),
+        Button.inline("Terms & Conditions", data="tc"),
+        Button.url("Error Report", "https://t.me/TheBlazeNetwork"),
     ],
     [Button.inline("System Call", data="help")],
 ]
